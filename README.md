@@ -5,6 +5,8 @@ This is a web app dedicated for the exports and imports business run by Indra Ra
 
 See it in action (still a work in progress) - https://www.irexim.co.in
 
+[Part-0: Getting Started](https://medium.com/sprblogs/real-world-app-with-angular-7-part-0-getting-started-48035ff2ae55)
+
 ## Quick Installation Instructions
 
 * Install cli globally
